@@ -474,6 +474,7 @@ footer .wave#wave3{
 
     .menu .menu-item.active{
         right: 0;
+        z-index: 99998;
     }
 
     .menu .menu-item a{
